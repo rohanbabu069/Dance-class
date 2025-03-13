@@ -1,0 +1,33 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+.header-container {
+    max-width: 1200px;
+    margin:auto;
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+    font-size:22px;
+    font-weight:bold
+}
+
+.header-container img {
+    height: 80px;
+    width: 80px;
+    
+}
+
+.head-list {
+    display: flex;
+    list-style: none;
+    gap: 30px;
+    align-items: center;
+
+}
+
+.head-list a {
+    text-decoration: none;
+    color:red
+}
