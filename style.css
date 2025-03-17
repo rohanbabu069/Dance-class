@@ -101,6 +101,9 @@
     border-radius:15px;
     object-fit:cover;
 }
+.image3 img{
+    height:230px;
+}
 .image3{
     border: 3px solid aqua;
     border-radius: 15px;
@@ -110,11 +113,15 @@
 .image4{
     border: 3px solid aqua;
     border-radius: 15px;
+    height:auto;
 
+}
+.image5 img{
+    height:250px;
 }
 .image5{
     border: 3px solid aqua;
-    border-radius: 15px;
+    border-radius: 12px;
 }
 .class-images h3{
     font-family:sans-serif;
